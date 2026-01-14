@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO="x68huang/bw_env_fetcher"
+REPO="clive2000/bw_env_fetcher"
 BINARY_NAME="bw_env_fetcher"
 INSTALL_DIR="/usr/local/bin"
 
